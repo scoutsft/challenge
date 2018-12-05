@@ -11,6 +11,10 @@ Your task is to design an application, either a REST API or a Web Application, u
 While we encourage using C# and Microsoft SQL Server, please use whatever language and SQL database you are most comfortable with.
 
 
+**Project Submission**
+
+Completed submissions can be submitted via a fork on the project, or via email.
+Please provide your database as a collection of scripts in a .sql file, rather than a database (ie .mdf) file
 
 
 
